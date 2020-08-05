@@ -3,9 +3,8 @@ import sys
 import random
 
 # 全局定义
-SCREEN_X = 600
-SCREEN_Y = 600
-
+SCREEN_X = 600                 #全局定义屏幕的宽
+SCREEN_Y = 600                  #全局定义屏幕的长
 
 # 蛇类
 # 点以25为单位
